@@ -38,3 +38,10 @@ header {
 	text-decoration: none;
 	margin: 5px;
 }
+
+.img1, .img2, .img3, .img4{
+    height: 20em;
+    width: 10em;
+    margin-left: 1em;
+    margin-top: 1em;
+}
